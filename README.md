@@ -64,6 +64,6 @@
 ###
 
 <p align="center">I am a Software Engineer with a passion for backend development and a deep commitment to technical excellence. I am driven by a love of learning and a constant desire for mastery, maintaining a high-intensity daily routine rooted in unwavering discipline.<br><br>I am currently advancing my expertise through the Scrimba Backend Developer Course, mastering Node.js and Express to build robust and scalable APIs. Alongside this, I refine my problem-solving skills through daily data structures and algorithms practice, focusing on writing clean and high-performance code. I believe the consistency required for physical mastery in strength training and martial arts is the same discipline needed to excel as a backend engineer.<br><br>---<br><br>
-### Join me on my learning journey<br>If you are looking to level up your coding skills, check out the path I'm following:<br>[Become a developer with Scrimba](https://scrimba.com?via=u436ee1e)</p>
+Join me on my learning journey<br>If you are looking to level up your coding skills, check out the path I'm following:<br>Become a developer with Scrimba -> (https://scrimba.com?via=u436ee1e)</p>
 
 ###
